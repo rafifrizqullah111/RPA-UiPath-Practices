@@ -14,9 +14,8 @@ It is not a production-ready project, but rather a space to keep track of my pro
 
 
 # 📂 Repository Structure
-
 ```bash
-uipath-rpa-learning/
+RPA-UiPath-Practices
 ├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
