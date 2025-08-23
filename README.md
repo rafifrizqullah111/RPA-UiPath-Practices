@@ -33,21 +33,24 @@ It is not a production-ready project, but rather a space to keep track of my pro
 
 ```bash
 uipath-rpa-learning/
-├── 01-foundation/           # Phase 1: basic concepts & simple workflows
-├── 02-intermediate/         # Phase 2: more advanced activities & logic
-├── 03-advanced/             # Phase 3: complex automation scenarios
-├── 04-capstone/             # Final project: end-to-end automation
-├── modules/                 # Topic-based practice
-│   ├── excel-automation/    # Excel-related automation
-│   ├── email-automation/    # Outlook/Gmail automation
-│   ├── pdf-automation/      # PDF data extraction & manipulation
-│   ├── web-automation/      # Web scraping, form filling, browser tasks
-│   ├── api-automation/      # REST API integration
-│   ├── database-automation/ # SQL & DB integration
-│   ├── orchestrator/        # UiPath Orchestrator practices
-│   └── reframework/         # Error handling & scalable project template
+├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
+├── 📁 Chapter-02-Email_Automation                  # Chapter 02: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
+├── 📁 Chapter-03-PDF_Automation                    # Chapter 03: basic concepts & simple workflows
+├── 📁 Chapter-04-Web_and_UI_Automation             # Chapter 04: basic concepts & simple workflows
+├── 📁 Chapter-05-Orchestrator                      # Chapter 05: basic concepts & simple workflows
+├── 📁 Chapter-06-REST_API_Integration              # Chapter 06: basic concepts & simple workflows
+├── 📁 Chapter-07-Database_Integration              # Chapter 07: basic concepts & simple workflows
+├── 📁 Chapter-08-Document_Understanding            # Chapter 08: basic concepts & simple workflows
+├── 📁 Chapter-09-Robotic_Enterprise_Framework      # Chapter 09: basic concepts & simple workflows
+├── 📁 Chapter-10-Language_Integrated_Query         # Chapter 10: basic concepts & simple workflows
+├── 📁 Chapter-11-Creating_Library                  # Chapter 11: basic concepts & simple workflows
+├── 📁 Chapter-12-Projects                          # Chapter 12: basic concepts & simple workflows
 └── README.md
-
+```
 
 
 # 📌 Closing Note
