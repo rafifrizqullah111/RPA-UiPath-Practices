@@ -17,8 +17,16 @@ It is not a production-ready project, but rather a space to keep track of my pro
 ```bash
 RPA-UiPath-Practices
 ├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Reading_and_Writing
+│   ├── 02-Data_Filtering
+│   ├── 03-Sorting_Data
+│   ├── 04-Mathematical_Operations
+│   ├── 05-Conditional_Formatting
+│   ├── 06-Lookup_Operations
+│   ├── 07-Pivot_Table_Automation
+│   ├── 08-Charts_Automation
+│   ├── 09-Data_Cleaning
+│   ├── 10-Report_Generation
 ├── 📁 Chapter-02-Email_Automation                  # Chapter 02: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
