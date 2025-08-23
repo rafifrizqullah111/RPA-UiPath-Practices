@@ -51,8 +51,13 @@ RPA-UiPath-Practices
 │   ├── 06-File_Upload_and_Download
 │   ├── 07-Error_Handling_and_Exception
 ├── 📁 Chapter-05-Orchestrator                      # Chapter 05: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Robot_Management
+│   ├── 02-Process_Deployment_and_Scheduling
+│   ├── 03-Queue_Management
+│   ├── 04-Asset_Management
+│   ├── 05-Monitoring_and_Logging
+│   ├── 06-User_and_Role_Management
+│   ├── 07-Triggering_Processes_via_API
 ├── 📁 Chapter-06-REST_API_Integration              # Chapter 06: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
