@@ -8,6 +8,7 @@ Convert PDF content into Excel or Word for further analysis.
 ## 📝 Sample Data
 - PDF file: `financial_report.pdf`
 - Example table/text (anonymized):
+  
 | Account | Amount | Status |
 |---------|--------|--------|
 | AAA     | $XXX   | Paid   |
