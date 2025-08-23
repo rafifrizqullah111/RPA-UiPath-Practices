@@ -29,23 +29,25 @@ It is not a production-ready project, but rather a space to keep track of my pro
  ┃ ┗ 📁 reframework
  ┗ 📄 README.md
 
- # 📂 Repository Structure
+# 📂 Repository Structure
 
+```bash
 uipath-rpa-learning/
-├── 01-foundation/          # Phase 1: basic concepts & simple workflows
-├── 02-intermediate/        # Phase 2: more advanced activities & logic
-├── 03-advanced/            # Phase 3: complex automation scenarios
-├── 04-capstone/            # Final project: end-to-end automation
-├── modules/                # Topic-based practice
-│   ├── excel-automation/   # Excel-related automation
-│   ├── email-automation/   # Outlook/Gmail automation
-│   ├── pdf-automation/     # PDF data extraction & manipulation
-│   ├── web-automation/     # Web scraping, form filling, browser tasks
-│   ├── api-automation/     # REST API integration
-│   ├── database-automation/# SQL & DB integration
-│   ├── orchestrator/       # UiPath Orchestrator practices
-│   └── reframework/        # Error handling & scalable project template
+├── 01-foundation/           # Phase 1: basic concepts & simple workflows
+├── 02-intermediate/         # Phase 2: more advanced activities & logic
+├── 03-advanced/             # Phase 3: complex automation scenarios
+├── 04-capstone/             # Final project: end-to-end automation
+├── modules/                 # Topic-based practice
+│   ├── excel-automation/    # Excel-related automation
+│   ├── email-automation/    # Outlook/Gmail automation
+│   ├── pdf-automation/      # PDF data extraction & manipulation
+│   ├── web-automation/      # Web scraping, form filling, browser tasks
+│   ├── api-automation/      # REST API integration
+│   ├── database-automation/ # SQL & DB integration
+│   ├── orchestrator/        # UiPath Orchestrator practices
+│   └── reframework/         # Error handling & scalable project template
 └── README.md
+
 
 
 # 📌 Closing Note
