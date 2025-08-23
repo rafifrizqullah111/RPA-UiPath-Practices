@@ -16,7 +16,7 @@ It is not a production-ready project, but rather a space to keep track of my pro
 # 📂 Repository Structure
 ```bash
 RPA-UiPath-Practices
-├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple workflows
+├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple modern excel automation
 │   ├── 01-Reading_and_Writing
 │   ├── 02-Data_Filtering
 │   ├── 03-Sorting_Data
