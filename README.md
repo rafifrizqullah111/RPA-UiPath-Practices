@@ -64,8 +64,10 @@ RPA-UiPath-Practices
 │   ├── 03-Authentication_and_Token
 │   ├── 04-API-Driven_Automation
 ├── 📁 Chapter-07-Database_Integration              # Chapter 07: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Database_Connect_and_Config
+│   ├── 02-CRUD_Operations
+│   ├── 03-Data_Retrieval_and_Query
+│   ├── 04-Database-Driven_Automation
 ├── 📁 Chapter-08-Document_Understanding            # Chapter 08: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
