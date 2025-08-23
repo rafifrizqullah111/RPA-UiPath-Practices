@@ -36,8 +36,12 @@ RPA-UiPath-Practices
 │   ├── 06-Email_Based_Approval_or_Notifications
 │   ├── 07-Organize_and_Move_Emails
 ├── 📁 Chapter-03-PDF_Automation                    # Chapter 03: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Read_PDF_Text
+│   ├── 02-Extract_PDF_Data_Table
+│   ├── 03-Merge_and_Split_PDF
+│   ├── 04-Export_PDF_to_Excel_or_Word
+│   ├── 05-PDF_Form_Filling_or_Editing
+│   ├── 06-Secure_or_Protect_PDF
 ├── 📁 Chapter-04-Web_and_UI_Automation             # Chapter 04: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
