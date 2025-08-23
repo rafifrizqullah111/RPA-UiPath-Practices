@@ -60,4 +60,4 @@ RPA-UiPath-Practices
 This repository is a personal learning journey for mastering UiPath RPA.
 It is not meant for production use, but as a structured way to practice, make mistakes, and grow.
 
-“Consistency beats intensity — small daily progress compounds into mastery.”
+> “Consistency beats intensity — small daily progress compounds into mastery.”
