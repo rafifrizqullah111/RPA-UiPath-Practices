@@ -18,7 +18,7 @@ It is not a production-ready project, but rather a space to keep track of my pro
 RPA-UiPath-Practices
 ├── 📁 Chapter-01-Excel_Automation                  # Chapter 01: basic concepts & simple modern excel automation
 │   ├── 01-Reading_and_Writing
-│   ├── 02-Data_Filtering
+│   ├── 02-Filtering_Data
 │   ├── 03-Sorting_Data
 │   ├── 04-Mathematical_Operations
 │   ├── 05-Conditional_Formatting
