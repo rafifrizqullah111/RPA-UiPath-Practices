@@ -43,8 +43,13 @@ RPA-UiPath-Practices
 │   ├── 05-PDF_Form_Filling_or_Editing
 │   ├── 06-Secure_or_Protect_PDF
 ├── 📁 Chapter-04-Web_and_UI_Automation             # Chapter 04: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Web_Data_Scraping
+│   ├── 02-Form_Automation
+│   ├── 03-Web_Navigation_and_Interaction
+│   ├── 04-Desktop_App_Automation
+│   ├── 05-Dynamic_Selectors
+│   ├── 06-File_Upload_and_Download
+│   ├── 07-Error_Handling_and_Exception
 ├── 📁 Chapter-05-Orchestrator                      # Chapter 05: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
