@@ -14,22 +14,6 @@ It is not a production-ready project, but rather a space to keep track of my pro
 
 
 # 📂 Repository Structure
- ┣ 📁 01-foundation
- ┣ 📁 02-intermediate
- ┣ 📁 03-advanced
- ┣ 📁 04-capstone
- ┣ 📁 modules
- ┃ ┣ 📁 excel-automation
- ┃ ┣ 📁 email-automation
- ┃ ┣ 📁 pdf-automation
- ┃ ┣ 📁 web-automation
- ┃ ┣ 📁 api-automation
- ┃ ┣ 📁 database-automation
- ┃ ┣ 📁 orchestrator
- ┃ ┗ 📁 reframework
- ┗ 📄 README.md
-
-# 📂 Repository Structure
 
 ```bash
 uipath-rpa-learning/
@@ -40,15 +24,35 @@ uipath-rpa-learning/
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-03-PDF_Automation                    # Chapter 03: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-04-Web_and_UI_Automation             # Chapter 04: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-05-Orchestrator                      # Chapter 05: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-06-REST_API_Integration              # Chapter 06: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-07-Database_Integration              # Chapter 07: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-08-Document_Understanding            # Chapter 08: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-09-Robotic_Enterprise_Framework      # Chapter 09: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-10-Language_Integrated_Query         # Chapter 10: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-11-Creating_Library                  # Chapter 11: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 ├── 📁 Chapter-12-Projects                          # Chapter 12: basic concepts & simple workflows
+│   ├── 01-Scenario_Case_1
+│   ├── 02-Scenario_Case_2
 └── README.md
 ```
 
