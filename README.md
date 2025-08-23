@@ -59,8 +59,10 @@ RPA-UiPath-Practices
 │   ├── 06-User_and_Role_Management
 │   ├── 07-Triggering_Processes_via_API
 ├── 📁 Chapter-06-REST_API_Integration              # Chapter 06: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-GET_and_POST_Requests
+│   ├── 02-PUT_and_DELETE_Requests
+│   ├── 03-Authentication_and_Token
+│   ├── 04-API-Driven_Automation
 ├── 📁 Chapter-07-Database_Integration              # Chapter 07: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
