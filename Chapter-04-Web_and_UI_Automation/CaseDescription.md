@@ -37,7 +37,7 @@ Each case is designed with sample data and clear objectives, so you can apply th
 - **Platforms:** Chrome, Edge, Firefox  
 - **Covers:** `Attach Browser`, `Type Into`, `Click`, `Download File`, `Save As`.
 
-### 07. Error Handling & Exception Management
+### 07. Error Handling & Exception
 - Manage UI automation failures with retry mechanisms and exception handling.  
 - **Platforms:** Web/Desktop  
 - **Covers:** `Try Catch`, `Retry Scope`, `Element Exists`, `Log Message`.
