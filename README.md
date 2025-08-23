@@ -28,8 +28,13 @@ RPA-UiPath-Practices
 │   ├── 09-Data_Cleaning
 │   ├── 10-Report_Generation
 ├── 📁 Chapter-02-Email_Automation                  # Chapter 02: basic concepts & simple workflows
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Read_Emails_and_Extract_Data
+│   ├── 02-Send_Emails_with_Attachments
+│   ├── 03-Save_Email_Attachments
+│   ├── 04-Auto_Reply_or_Forward_Emails
+│   ├── 05-Monitor_Email_Inbox
+│   ├── 06-Email_Based_Approval_or_Notifications
+│   ├── 07-Organize_and_Move_Emails
 ├── 📁 Chapter-03-PDF_Automation                    # Chapter 03: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
