@@ -1,49 +1,48 @@
 # 📘 Document Understanding Practice (UiPath)
 
 This section contains **hands-on practice cases** for learning Document Understanding in UiPath.  
-Each case is designed with sample data and clear objectives, so you can apply them directly in automation workflows.
+Each case is designed with sample documents and clear objectives, so you can apply them directly in automation workflows.
 
 ---
 
 ## 📂 Cases Overview
 
 ### 01. Document Classification
-- Automatically classify incoming documents (invoice, receipt, forms) into categories.  
-- **Covers:** `Taxonomy Manager`, `Load Taxonomy`, `Digitize Document`, `Classify Document Scope`, `Present Classification Station`.
+- Automatically classify documents into categories such as invoices, receipts, purchase orders, or contracts.  
+- **Covers:** `Digitize Document`, `Classification Station`, `Keyword Based Classifier`, `Machine Learning Classifier`.
 
-### 02. OCR Extraction (Structured & Semi-Structured)
-- Extract text data from scanned documents or PDFs using OCR.  
-- **Covers:** `Digitize Document`, `Read PDF with OCR`, `Read Handwritten Text`, `Tesseract OCR`, `OmniPage OCR`.
+### 02. OCR Extraction
+- Extract text from scanned or image-based PDF documents using OCR.  
+- **Covers:** `Digitize Document`, `OCR Engine (Tesseract, OmniPage, Microsoft)`, `Read PDF with OCR`.
 
-### 03. Data Extraction with ML Models
-- Use Machine Learning Extractor to capture fields (e.g., invoice number, total).  
-- **Covers:** `Data Extraction Scope`, `ML Extractor`, `Assign`, `Write Range`.
+### 03. Data Extraction
+- Extract structured data fields such as Invoice Number, Vendor Name, or Total Amount.  
+- **Covers:** `Data Extraction Scope`, `Regex Based Extractor`, `ML Extractor`, `Keyword Based Extractor`.
 
-### 04. Validation Station for Human-in-the-Loop
-- Route extracted data to humans for validation before storing results.  
-- **Covers:** `Present Validation Station`, `Human in the Loop`, `Validation Action Center`.
+### 04. Document Classification (Advanced Routing)
+- Enhance classification by routing documents automatically to the right process flow.  
+- **Covers:** `Keyword Based Classifier`, `ML Classifier`, `Export Extraction Results`.
 
-### 05. Handling Semi-Structured Invoices
-- Extract data from invoices with varying layouts and vendors.  
-- **Covers:** `Form Extractor`, `Regex Extractor`, `ML Extractor`, `Anchor Base`.
+### 05. Extract Data from Unstructured Documents
+- Process unstructured files such as contracts or resumes and extract meaningful information.  
+- **Covers:** `Digitize Document`, `Regex Extractor`, `ML Extractor`, `Export Extraction Results`.
 
-### 06. Extract Data from Forms
-- Capture fields from structured forms (e.g., HR request form).  
-- **Covers:** `Form Extractor`, `Data Extraction Scope`, `Assign`, `Write Cell`.
+### 06. Train & Evaluate ML Extractor
+- Train and evaluate custom ML models for extracting data fields from documents.  
+- **Covers:** `Machine Learning Extractor`, `AI Center`, `Export Extraction Results`.
 
-### 07. Combine Multiple Extraction Methods
-- Apply hybrid extraction (keyword, regex, ML) for maximum accuracy.  
-- **Covers:** `Regex Extractor`, `Keyword Based Extractor`, `ML Extractor`, `If`.
+### 07. Validation Station (Human-in-the-loop)
+- Integrate **human validation** to review and correct extracted fields before final processing.  
+- **Covers:** `Validation Station`, `Data Extraction Scope`, `Write Range`, `Export Extraction Results`.
 
 ---
 
 ## 🎯 Goal
 By completing these 7 cases, you will gain hands-on experience in:  
-- Classifying and categorizing documents  
-- Extracting text from scanned and native PDFs  
-- Using machine learning for field-level extraction  
-- Building workflows with human validation in the loop  
-- Handling both structured and semi-structured documents  
-- Designing hybrid approaches to improve accuracy  
+- Classifying and routing documents  
+- Extracting text using OCR engines  
+- Capturing structured and unstructured data fields  
+- Training and evaluating ML extractors  
+- Applying human-in-the-loop validation for accuracy  
 
-This practice set is designed to mimic **real-world document automation needs** in enterprise workflows.
+This practice set is designed to mimic **real-world document processing** in finance, HR, procurement, and other business processes.
