@@ -89,11 +89,13 @@ RPA-UiPath-Practices
 │   ├── 📁 05-Join_Two_Tables
 │   ├── 📁 06-Distinct_and_Deduplication
 ├── 📁 Chapter-11-Creating_Library                        # Chapter 11: basic concepts & simple create library
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 📁 01-Simple_Parameterized_Library
+│   ├── 📁 02-Exception_Handled_Library
+│   ├── 📁 03-Library_with_Dependencies_Versioning
+│   ├── 📁 04-Using_Library_in_Multiple_Projects
 ├── 📁 Chapter-12-Projects                                # Chapter 12: Project capstone
-│   ├── 01-Scenario_Case_1
-│   ├── 02-Scenario_Case_2
+│   ├── 01-Project_1_Dummy_Text
+│   ├── 02-Project_2_Dummy_Text
 └── README.md
 ```
 
