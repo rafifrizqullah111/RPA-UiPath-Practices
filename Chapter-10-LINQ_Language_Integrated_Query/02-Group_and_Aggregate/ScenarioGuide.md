@@ -49,4 +49,19 @@ This allows you to generate totals, counts, or averages without manual loops.
        Select Category = cat, TotalAmount, Count
        CopyToDataTable()
    ```
+3. Write `dtGrouped` to a new Excel sheet (`Aggregated_Orders.xlsx`).
+4. Optionally log the total amount per category.
 
+---
+
+## ✅ Expected Output
+- Aggregated DataTable or Excel with totals and counts per category.
+- Example output:
+
+| Category  | TotalAmount | Count |
+| --------- | ----------- | ----- |
+| OfficeSup | 1000        | 4     |
+| ITEquip   | 2950        | 3     |
+| Travel    | 1450        | 3     |
+
+---
