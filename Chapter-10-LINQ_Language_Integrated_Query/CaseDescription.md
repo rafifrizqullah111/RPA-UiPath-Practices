@@ -1,4 +1,4 @@
-# 📘 LINQ Practice (UiPath)
+# 📘 Language Integrated Query Practice (UiPath)
 
 This section contains **hands-on practice cases** for mastering LINQ queries in UiPath.  
 Each case simulates common data manipulation scenarios using DataTable, List, and Array objects.
