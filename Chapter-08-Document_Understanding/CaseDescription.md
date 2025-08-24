@@ -19,9 +19,9 @@ Each case is designed with sample documents and clear objectives, so you can app
 - Extract structured data fields such as Invoice Number, Vendor Name, or Total Amount.  
 - **Covers:** `Data Extraction Scope`, `Regex Based Extractor`, `ML Extractor`, `Keyword Based Extractor`.
 
-### 04. Document Classification (Advanced Routing)
-- Enhance classification by routing documents automatically to the right process flow.  
-- **Covers:** `Keyword Based Classifier`, `ML Classifier`, `Export Extraction Results`.
+### 04. Table Extraction
+- Capture tables from invoices, purchase orders, or receipts (e.g., item name, qty, price).  
+- **Covers:** `Intelligent Form Extractor`, `Form Extractor`, `Export Extraction Results`.
 
 ### 05. Extract Data from Unstructured Documents
 - Process unstructured files such as contracts or resumes and extract meaningful information.  
@@ -42,6 +42,7 @@ By completing these 7 cases, you will gain hands-on experience in:
 - Classifying and routing documents  
 - Extracting text using OCR engines  
 - Capturing structured and unstructured data fields  
+- Extracting line-item tables from invoices/POs  
 - Training and evaluating ML extractors  
 - Applying human-in-the-loop validation for accuracy  
 
