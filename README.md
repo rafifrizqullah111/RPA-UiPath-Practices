@@ -69,13 +69,13 @@ RPA-UiPath-Practices
 │   ├── 03-Data_Retrieval_and_Query
 │   ├── 04-Database-Driven_Automation
 ├── 📁 Chapter-08-Document_Understanding            # Chapter 08: basic concepts & simple workflows
-│   ├── 01-Document Classification
-│   ├── 02-OCR Extraction
-│   ├── 03-Data Extraction
-│   ├── 04-Document Classification
-│   ├── 05-Extract Data from Unstructured Documents
-│   ├── 06-Train & Evaluate ML Extractor
-│   ├── 07-Validation Station (Human-in-the-loop)
+│   ├── 01-Document_Classification
+│   ├── 02-OCR_Extraction
+│   ├── 03-Data_Extraction
+│   ├── 04-Document_Classification
+│   ├── 05-Extract_Data_from_Unstructured_Documents
+│   ├── 06-Train_and_Evaluate_ML_Extractor
+│   ├── 07-Validation_Station
 ├── 📁 Chapter-09-Robotic_Enterprise_Framework      # Chapter 09: basic concepts & simple workflows
 │   ├── 01-Scenario_Case_1
 │   ├── 02-Scenario_Case_2
